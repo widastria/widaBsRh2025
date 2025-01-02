@@ -10,7 +10,10 @@
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset",
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Look.uasset",
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset",
-				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Gamemode.uasset"
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Gamemode.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Crouch.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Jump.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Sprint.uasset"
 			]
 		}
 	]
