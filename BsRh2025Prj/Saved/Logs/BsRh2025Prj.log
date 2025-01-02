@@ -1256,3 +1256,1235 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.02-21.41.49:829][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 318.900635
 [2025.01.02-21.41.50:828][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.02-21.41.50:828][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 319.567688, Update Interval: 312.457031
+[2025.01.02-21.44.01:900][475]LogSlate: Window 'New Level' being destroyed
+[2025.01.02-21.44.01:909][475]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.02-21.44.01:909][475]LightingResults: New page: Lighting Build
+[2025.01.02-21.44.01:909][475]LoadErrors: New page: Loading map: Template_Default.umap
+[2025.01.02-21.44.01:930][475]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-21.44.01:930][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-21.44.01:933][475]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2025.01.02-21.44.01:933][475]MapCheck: New page: Map Check
+[2025.01.02-21.44.01:933][475]LightingResults: New page: Lighting Build
+[2025.01.02-21.44.01:936][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.02-21.44.01:952][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.02-21.44.01:962][475]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.01.02-21.44.01:962][475]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-21.44.01:962][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-21.44.01:962][475]LogAIModule: Creating AISystem for world Untitled_2
+[2025.01.02-21.44.01:972][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.02-21.44.01:977][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.02-21.44.01:977][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.02-21.44.01:977][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2025.01.02-21.44.10:609][825]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.02-21.44.10:791][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-21.44.18:704][276]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-21.44.18:719][276]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-21.44.33:375][323]LogSlate: Window 'Save Level As' being destroyed
+[2025.01.02-21.44.33:622][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TEST" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Levels/TEST.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.02-21.44.33:636][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.02-21.44.33:643][323]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005001 seconds
+[2025.01.02-21.44.33:649][323]LogSavePackage: Moving output files for package: /Game/Levels/TEST
+[2025.01.02-21.44.33:649][323]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/TESTA17D23E7402D0A8AD76C02AF5FAE19E5.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Levels/TEST.umap'
+[2025.01.02-21.44.33:693][323]LogFileHelpers: Saving map 'TEST' took 0.304
+[2025.01.02-21.44.33:693][323]Cmd: MAP LOAD FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Levels/TEST.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.02-21.44.33:693][323]LightingResults: New page: Lighting Build
+[2025.01.02-21.44.33:693][323]LoadErrors: New page: Loading map: TEST.umap
+[2025.01.02-21.44.33:747][323]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-21.44.33:747][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-21.44.33:747][323]MapCheck: New page: Map Check
+[2025.01.02-21.44.33:747][323]LightingResults: New page: Lighting Build
+[2025.01.02-21.44.33:750][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.02-21.44.33:752][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.02-21.44.33:755][323]LogAudio: Display: Audio Device (ID: 1) registered with world 'TEST'.
+[2025.01.02-21.44.33:755][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-21.44.33:755][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-21.44.33:756][323]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-21.44.33:766][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.02-21.44.33:770][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.02-21.44.33:771][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.02-21.44.33:772][323]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2025.01.02-21.44.33:772][323]AssetCheck: New page: Asset Save: TEST
+[2025.01.02-21.44.33:772][323]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/TEST.TEST
+[2025.01.02-21.44.33:974][324]LogAutomationController: Ignoring very large delta of 14.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.02-21.44.37:837][481]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.02-21.44.41:399][669]LogSlate: Took 0.008297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.02-21.44.44:911][866]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-21.44.44:924][866]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-21.44.49:143][113]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.02-21.44.51:080][201]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.02-21.44.51:094][201]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.02-21.44.51:103][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.02-21.44.56:077][499]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.01.02-21.44.56:078][499]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.02-21.45.00:999][684]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.02-21.45.01:010][684]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.02-21.45.01:015][684]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.02-21.45.01:051][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.02-21.45.07:160][ 49]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Player
+[2025.01.02-21.45.07:167][ 49]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.02-21.47.06:654][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 635.723999
+[2025.01.02-21.47.07:653][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-21.47.07:653][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 636.387878, Update Interval: 326.651825
+[2025.01.02-21.47.22:631][520]LogWindowsTextInputMethodSystem: Activated input method: Russian (Ukraine) - (Keyboard).
+[2025.01.02-21.47.22:631][520]LogWindowsTextInputMethodSystem: Activated input method: Russian (Ukraine) - (Keyboard).
+[2025.01.02-21.48.41:394][820]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.02-21.48.41:395][820]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.02-21.52.38:464][799]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 967.539307
+[2025.01.02-21.52.39:465][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-21.52.39:465][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 968.206116, Update Interval: 331.083099
+[2025.01.02-21.53.55:695][ 42]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2025.01.02-21.53.55:821][ 42]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=564128
+[2025.01.02-21.53.56:157][ 43]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{52c850c6-9d89-40a2-9a1a-f621dbbe2571}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=274.02
+[2025.01.02-21.53.56:157][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.02-21.53.56:159][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.02-21.54.19:994][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.02-21.54.19:996][114]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TEST' took 0.008
+[2025.01.02-21.54.19:997][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.01.02-21.54.19:997][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.01.02-21.54.19:997][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-21.54.20:002][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto1
+[2025.01.02-21.54.20:002][114]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player_Auto11E9510D942E54FC79F2349BC85F0E368.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2025.01.02-21.54.20:002][114]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.01.02-21.54.34:483][158]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=QCY (QCY-T13 ANC), InstanceID=1
+[2025.01.02-21.54.34:497][158]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=564128
+[2025.01.02-21.54.34:831][159]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{646d32b4-4ea1-4e68-98bc-e9bcc7f46794}, Name=QCY (QCY-T13 ANC)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=120.59
+[2025.01.02-21.54.34:832][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.02-21.54.34:833][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.02-21.55.46:150][ 55]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.02-21.55.51:599][221]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.02-21.55.51:613][221]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.02-21.55.51:623][222]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.02-21.55.57:193][555]LogContentBrowser: Attempting asset rename: NewFolder -> Inputs
+[2025.01.02-21.55.57:193][555]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.02-21.56.05:129][  9]LogContentBrowser: Attempting asset rename: Inputs -> Input
+[2025.01.02-21.56.12:334][353]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.01.02-21.56.12:343][353]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.01.02-21.56.12:372][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.01.02-21.56.22:978][983]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IM_Player
+[2025.01.02-21.56.22:978][983]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.01.02-21.56.33:491][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.02-21.56.34:516][105]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.02-21.56.34:528][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.02-21.56.34:534][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.01.02-21.56.34:539][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.01.02-21.56.37:842][245]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.01.02-21.56.37:851][245]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.01.02-21.56.37:878][247]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.01.02-21.56.40:892][416]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Player
+[2025.01.02-21.56.40:892][416]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.01.02-21.56.52:678][955]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.01.02-21.56.52:688][955]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.01.02-21.56.52:699][956]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.01.02-21.56.56:344][166]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2025.01.02-21.56.56:345][166]LogContentBrowser: End creating deferred item NewInputAction
+[2025.01.02-21.57.04:163][327]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.01.02-21.57.04:172][327]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.01.02-21.57.04:182][328]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.01.02-21.57.09:219][618]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2025.01.02-21.57.09:220][618]LogContentBrowser: End creating deferred item NewInputAction
+[2025.01.02-21.57.10:779][692]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.01.02-21.57.11:943][750]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.01.02-21.57.11:952][750]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.01.02-21.57.11:964][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.01.02-21.57.15:223][942]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2025.01.02-21.57.15:223][942]LogContentBrowser: End creating deferred item NewInputAction
+[2025.01.02-21.57.21:325][126]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.01.02-21.57.21:333][126]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.01.02-21.57.21:342][127]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.01.02-21.57.26:805][447]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Crouch
+[2025.01.02-21.57.26:805][447]LogContentBrowser: End creating deferred item NewInputAction
+[2025.01.02-21.58.17:423][863]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Move.IA_Move
+[2025.01.02-21.58.18:930][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1308.003906
+[2025.01.02-21.58.19:097][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-21.58.19:097][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1308.154541, Update Interval: 300.119019
+[2025.01.02-21.58.33:762][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-21.58.33:886][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Move.uasset" SILENT=true
+[2025.01.02-21.58.33:887][823]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.01.02-21.58.33:888][823]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_MoveC0E75488484A268A19672E91DC0B204D.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Move.uasset'
+[2025.01.02-21.58.33:898][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms
+[2025.01.02-21.58.33:898][823]AssetCheck: New page: Asset Save: IA_Move
+[2025.01.02-21.58.33:898][823]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/IA_Move.IA_Move
+[2025.01.02-21.58.34:628][859]LogSlate: Window 'IA_Move' being destroyed
+[2025.01.02-21.58.36:477][966]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-21.59.54:799][222]LogSlate: Window 'IMC_Player' being destroyed
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2025.01.02-21.59.57:448][368]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.DetailMode:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2025.01.02-21.59.57:448][368]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.01.02-21.59.57:450][368]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.01.02-21.59.57:455][368]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.02-21.59.57:551][371]LogContentStreaming: Texture pool size now 400 MB
+[2025.01.02-22.01.11:930][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.01.12:086][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.01.02-22.01.12:088][133]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.01.02-22.01.12:088][133]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IMC_Player09BF94AD4CC4DDA112A18EBDE3E0284C.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset'
+[2025.01.02-22.01.12:103][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 309 ms)
+[2025.01.02-22.01.12:104][133]AssetCheck: New page: Asset Save: IMC_Player
+[2025.01.02-22.01.12:104][133]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.01.35:383][313]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Look.IA_Look
+[2025.01.02-22.01.41:598][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.01.41:799][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Look" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Look.uasset" SILENT=true
+[2025.01.02-22.01.41:802][679]LogSavePackage: Moving output files for package: /Game/Input/IA_Look
+[2025.01.02-22.01.41:802][679]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_LookA4C19B5549B1FD0DD9FB47A0F6052D3A.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Look.uasset'
+[2025.01.02-22.01.41:814][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 525 ms)
+[2025.01.02-22.01.41:815][679]AssetCheck: New page: Asset Save: IA_Look
+[2025.01.02-22.01.41:815][679]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/IA_Look.IA_Look
+[2025.01.02-22.01.42:007][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.01.42:218][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Look" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Look.uasset" SILENT=true
+[2025.01.02-22.01.42:220][691]LogSavePackage: Moving output files for package: /Game/Input/IA_Look
+[2025.01.02-22.01.42:220][691]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_LookCFC0AF784D37913CED6CA99ABC8EF3AC.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Look.uasset'
+[2025.01.02-22.01.42:230][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 749 ms)
+[2025.01.02-22.01.42:233][691]AssetCheck: New page: Asset Save: IA_Look
+[2025.01.02-22.01.42:233][691]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/IA_Look.IA_Look
+[2025.01.02-22.02.07:902][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.02.08:042][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.01.02-22.02.08:044][191]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.01.02-22.02.08:045][191]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IMC_PlayerA061879947AAF164260F0CB122FF1CA9.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset'
+[2025.01.02-22.02.08:054][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 900 ms)
+[2025.01.02-22.02.08:055][191]AssetCheck: New page: Asset Save: IMC_Player
+[2025.01.02-22.02.08:055][191]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.02.15:801][587]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.01.02-22.02.15:811][587]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.01.02-22.02.15:822][588]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.01.02-22.02.22:044][937]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Sprint
+[2025.01.02-22.02.22:045][937]LogContentBrowser: End creating deferred item NewInputAction
+[2025.01.02-22.02.24:077][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.02.24:207][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.01.02-22.02.24:211][ 53]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.01.02-22.02.24:211][ 53]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IMC_Player2F6E1C9E4B939FCBD78B88B578C7437F.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset'
+[2025.01.02-22.02.24:219][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1.04 sec)
+[2025.01.02-22.02.24:220][ 53]AssetCheck: New page: Asset Save: IMC_Player
+[2025.01.02-22.02.24:220][ 53]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.02.36:445][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.02.36:582][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.01.02-22.02.36:585][759]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.01.02-22.02.36:585][759]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IMC_Player0CBDE2204F0F5EF7B86E319CEC4B7399.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset'
+[2025.01.02-22.02.36:593][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1.19 sec)
+[2025.01.02-22.02.36:594][759]AssetCheck: New page: Asset Save: IMC_Player
+[2025.01.02-22.02.36:594][759]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.03.45:664][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1634.738159
+[2025.01.02-22.03.46:662][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.03.46:662][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1635.404785, Update Interval: 334.609833
+[2025.01.02-22.04.23:319][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.02-22.04.23:324][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TEST' took 0.016
+[2025.01.02-22.04.23:325][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Jump] ([1] browsable assets)...
+[2025.01.02-22.04.23:325][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Jump]
+[2025.01.02-22.04.23:325][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Jump" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.04.23:326][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Jump_Auto2
+[2025.01.02-22.04.23:326][688]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Jump_Auto2CD7ACB2E4B39B916B18BEAB85FD88407.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto2.uasset'
+[2025.01.02-22.04.23:327][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Crouch] ([1] browsable assets)...
+[2025.01.02-22.04.23:327][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Crouch]
+[2025.01.02-22.04.23:327][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Crouch" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.04.23:327][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Crouch_Auto2
+[2025.01.02-22.04.23:327][688]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Crouch_Auto25E7B30CC42788788D6E966885636C6F3.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto2.uasset'
+[2025.01.02-22.04.23:328][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Sprint] ([1] browsable assets)...
+[2025.01.02-22.04.23:328][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Sprint]
+[2025.01.02-22.04.23:328][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Sprint" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.04.23:329][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Sprint_Auto2
+[2025.01.02-22.04.23:329][688]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Sprint_Auto2E26F8DEC404BBD7AB16EFF9680BD682D.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto2.uasset'
+[2025.01.02-22.04.23:329][688]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.01.02-22.04.48:804][528]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>], HttpStatus=[401], ErrorCode=[errors.com.epicgames.common.oauth.invalid_token], NumericErrorCode=[1014], ErrorMessage=[The OAuthToken you are using is not valid], CorrId=[EOS-xKLkNZqT2k6Y7ruS_6spEg-ey1r4xCWMkS7aIILlid-nQ]
+[2025.01.02-22.04.49:138][529]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: ce7...a9e
+[2025.01.02-22.04.49:138][529]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[ce7...a9e]
+[2025.01.02-22.05.03:709][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.05.03:858][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset" SILENT=true
+[2025.01.02-22.05.03:862][927]LogSavePackage: Moving output files for package: /Game/Input/IMC_Player
+[2025.01.02-22.05.03:862][927]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IMC_PlayerA5316333423BD047F9A009BEC2F099D2.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IMC_Player.uasset'
+[2025.01.02-22.05.03:870][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 1.35 sec)
+[2025.01.02-22.05.03:872][927]AssetCheck: New page: Asset Save: IMC_Player
+[2025.01.02-22.05.03:872][927]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.05.22:111][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.05.22:112][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.05.22:112][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.05.22:123][349]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.01.02-22.05.23:038][349]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2025.01.02-22.05.24:196][405]LogViewport: Scene viewport resized to 1139x890, mode Windowed.
+[2025.01.02-22.05.24:273][407]LogViewport: Scene viewport resized to 614x421, mode Windowed.
+[2025.01.02-22.05.24:315][408]LogViewport: Scene viewport resized to 467x288, mode Windowed.
+[2025.01.02-22.05.24:750][434]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2025.01.02-22.05.25:074][453]LogSlate: Window 'BP_Player' being destroyed
+[2025.01.02-22.05.26:748][546]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.02-22.06.15:699][714]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.01.02-22.06.31:067][369]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.06.31:098][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.02-22.06.31:367][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.06.31:576][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.06.31:581][384]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.06.31:581][384]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_PlayerEB89CCFA4B0C8525C79C75B91D3CB896.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.06.31:593][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 1.57 sec)
+[2025.01.02-22.06.31:594][384]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.06.31:594][384]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.06.35:793][539]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.02-22.06.35:809][539]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.02-22.06.35:815][539]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.02-22.06.35:826][540]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.02-22.06.40:244][804]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Gamemode
+[2025.01.02-22.06.40:250][804]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.02-22.06.41:370][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Gamemode.BP_Gamemode
+[2025.01.02-22.06.41:370][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.06.41:371][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.06.41:504][871]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2025.01.02-22.06.50:677][403]BlueprintLog: New page: Compile BP_Gamemode
+[2025.01.02-22.06.50:709][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.02-22.06.51:133][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.06.51:259][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gamemode" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Gamemode.uasset" SILENT=true
+[2025.01.02-22.06.51:264][426]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Gamemode
+[2025.01.02-22.06.51:264][426]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Gamemode4B56AAD8491A1C9AFC0E6C8EF6114007.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Gamemode.uasset'
+[2025.01.02-22.06.51:274][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.72 sec)
+[2025.01.02-22.06.51:276][426]AssetCheck: New page: Asset Save: BP_Gamemode
+[2025.01.02-22.06.51:276][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Gamemode.BP_Gamemode
+[2025.01.02-22.06.51:828][457]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.06.51:828][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.07.12:042][477]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.01.02-22.07.12:052][477]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.01.02-22.07.14:947][561]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.02-22.07.27:146][260]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-22.07.27:157][260]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.02-22.07.29:405][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.07.29:411][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.07.29:411][390]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:07:29 AM)
+[2025.01.02-22.07.29:417][390]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.02-22.07.29:417][390]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.02-22.07.29:417][390]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.07.29:419][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002564s)
+[2025.01.02-22.07.29:419][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.002646s)
+[2025.01.02-22.07.29:435][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.02-22.07.29:442][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.07.29:443][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.07.29:443][390]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.07.29:443][390]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2025.01.02-22.07.29:443][390]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.07.29:444][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.07.29:444][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.07.29:444][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.07.29:444][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.07.29:444][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.07.29:446][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.07.29:493][390]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.07.29:494][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.07.29:494][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.07.29:494][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.07.29:495][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.02-22.07.29:495][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.02-22.07.29:498][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.02-22.07.29:498][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.02-22.07.29:498][390]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.02-22.07.29:498][390]LogAudio: Display: Audio Device (ID: 2) registered with world 'TEST'.
+[2025.01.02-22.07.29:498][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.02-22.07.29:500][390]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.07.29:501][390]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.07.29
+[2025.01.02-22.07.29:501][390]LogWorld: Bringing up level for play took: 0.000586
+[2025.01.02-22.07.29:504][390]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.01.02-22.07.29:508][390]PIE: Server logged in
+[2025.01.02-22.07.29:509][390]PIE: Play in editor total start time 0.099 seconds.
+[2025.01.02-22.07.30:828][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.07.30:828][464]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.07.30:828][464]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.07.30:828][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.07.30:834][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.07.30:838][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.07.30:854][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.07.30:854][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.02-22.07.30:854][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.02-22.07.30:856][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.02-22.07.30:865][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.07.30:943][465]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.01.02-22.08.46:072][499]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.08.46:103][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.02-22.08.46:849][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.08.47:086][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.08.47:092][542]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.08.47:093][542]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player522B671D460408480B4B25AD5DF3B4F1.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.08.47:104][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 1.97 sec)
+[2025.01.02-22.08.47:107][542]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.08.47:107][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.10.17:081][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2026.154419
+[2025.01.02-22.10.18:077][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.10.18:077][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2026.818481, Update Interval: 331.912598
+[2025.01.02-22.11.11:621][507]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'APawn::GetControlRotation' [Element not found.]
+[2025.01.02-22.11.14:332][654]LogEditorTransaction: Undo Create Pin Link
+[2025.01.02-22.11.15:756][717]LogEditorTransaction: Redo Create Pin Link
+[2025.01.02-22.12.44:194][884]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.12.44:234][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.01.02-22.12.44:685][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.12.44:825][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.12.44:837][908]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.12.44:837][908]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player6AE634A140D31C64922AAFAB2B1A63BB.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.12.44:847][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 2.13 sec)
+[2025.01.02-22.12.44:851][908]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.12.44:851][908]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.12.45:526][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.12.45:531][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.12.45:531][949]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:12:45 AM)
+[2025.01.02-22.12.45:532][949]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.12.45:533][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001809s)
+[2025.01.02-22.12.45:533][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001859s)
+[2025.01.02-22.12.45:548][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.02-22.12.45:551][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.12.45:551][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.12.45:552][949]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.12.45:552][949]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2025.01.02-22.12.45:552][949]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.02-22.12.45:552][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.12.45:552][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.12.45:552][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.12.45:552][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.12.45:553][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.12.45:553][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.12.45:553][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.12.45:553][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.12.45:553][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.12.45:553][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.12.45:553][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.12.45:556][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.12.45:603][949]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.12.45:603][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.12.45:603][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.12.45:603][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.12.45:604][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.02-22.12.45:604][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.02-22.12.45:605][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.02-22.12.45:605][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.02-22.12.45:605][949]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.02-22.12.45:605][949]LogAudio: Display: Audio Device (ID: 3) registered with world 'TEST'.
+[2025.01.02-22.12.45:606][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.02-22.12.45:780][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.12.45:781][949]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.12.45:782][949]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.12.45
+[2025.01.02-22.12.45:782][949]LogWorld: Bringing up level for play took: 0.000838
+[2025.01.02-22.12.45:785][949]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.01.02-22.12.45:788][949]PIE: Server logged in
+[2025.01.02-22.12.45:790][949]PIE: Play in editor total start time 0.258 seconds.
+[2025.01.02-22.12.45:801][949]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.12.53:918][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.12.53:918][424]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.12.53:918][424]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.12.53:925][424]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.12.53:925][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.12.53:929][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.12.53:934][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.12.53:949][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.02-22.12.53:949][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.02-22.12.53:952][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.02-22.12.53:976][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.02-22.12.54:037][425]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.01.02-22.13.32:299][944]LogWindowsTextInputMethodSystem: Activated input method: Ukrainian (Ukraine) - (Keyboard).
+[2025.01.02-22.13.32:300][944]LogWindowsTextInputMethodSystem: Activated input method: Ukrainian (Ukraine) - (Keyboard).
+[2025.01.02-22.13.52:418][826]LogWindowsTextInputMethodSystem: Activated input method: Russian (Ukraine) - (Keyboard).
+[2025.01.02-22.13.52:419][826]LogWindowsTextInputMethodSystem: Activated input method: Russian (Ukraine) - (Keyboard).
+[2025.01.02-22.13.52:951][858]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.02-22.13.52:951][858]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.02-22.14.35:410][468]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.14.35:449][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.02-22.14.35:736][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.14.35:867][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.14.35:877][479]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.14.35:879][479]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player6825AD124689E81175F350AE7A6D9261.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.14.35:887][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.28 sec)
+[2025.01.02-22.14.35:889][479]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.14.35:889][479]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.14.36:597][522]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.14.36:603][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.14.36:603][522]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:14:36 AM)
+[2025.01.02-22.14.36:603][522]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.14.36:605][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001749s)
+[2025.01.02-22.14.36:605][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001787s)
+[2025.01.02-22.14.36:620][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.14.36:623][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.14.36:623][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.14.36:624][522]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.14.36:624][522]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2025.01.02-22.14.36:624][522]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.14.36:624][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.14.36:624][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.14.36:624][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.14.36:624][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.14.36:624][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.14.36:627][522]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.14.36:671][522]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.14.36:672][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.14.36:672][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.14.36:672][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.14.36:672][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.02-22.14.36:672][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.02-22.14.36:674][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.02-22.14.36:674][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.02-22.14.36:674][522]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.02-22.14.36:674][522]LogAudio: Display: Audio Device (ID: 4) registered with world 'TEST'.
+[2025.01.02-22.14.36:674][522]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.02-22.14.36:820][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.14.36:820][522]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.14.36:821][522]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.14.36
+[2025.01.02-22.14.36:822][522]LogWorld: Bringing up level for play took: 0.000873
+[2025.01.02-22.14.36:825][522]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.01.02-22.14.36:828][522]PIE: Server logged in
+[2025.01.02-22.14.36:830][522]PIE: Play in editor total start time 0.227 seconds.
+[2025.01.02-22.14.36:840][522]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.14.41:028][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.14.41:028][765]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.14.41:029][765]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.14.41:038][765]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.14.41:039][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.14.41:044][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.14.41:050][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.14.41:071][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.02-22.14.41:072][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.02-22.14.41:080][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.02-22.14.41:089][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.02-22.14.41:155][766]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.01.02-22.14.45:628][ 27]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.14.45:666][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.02-22.14.46:038][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.14.46:180][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.14.46:194][ 45]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.14.46:194][ 45]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player4DC24AB14955A0F105FB2D80D0DD1B43.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.14.46:209][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 2.45 sec)
+[2025.01.02-22.14.46:211][ 45]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.14.46:211][ 45]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.14.46:873][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.14.46:879][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.14.46:879][ 84]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:14:46 AM)
+[2025.01.02-22.14.46:880][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.14.46:882][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002428s)
+[2025.01.02-22.14.46:882][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.002474s)
+[2025.01.02-22.14.46:897][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.02-22.14.46:902][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.14.46:902][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.14.46:902][ 84]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.14.46:902][ 84]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2025.01.02-22.14.46:902][ 84]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.02-22.14.46:902][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.14.46:902][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.14.46:902][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.14.46:904][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.14.46:904][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.14.46:904][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.14.46:904][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.14.46:904][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.14.46:904][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.14.46:904][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.14.46:904][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.14.46:906][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.14.46:954][ 84]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.14.46:954][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.14.46:954][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.14.46:954][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.14.46:955][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.02-22.14.46:955][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.02-22.14.46:958][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.02-22.14.46:958][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.02-22.14.46:958][ 84]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.02-22.14.46:958][ 84]LogAudio: Display: Audio Device (ID: 5) registered with world 'TEST'.
+[2025.01.02-22.14.46:958][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.02-22.14.47:109][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.14.47:110][ 84]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.14.47:110][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.14.47
+[2025.01.02-22.14.47:111][ 84]LogWorld: Bringing up level for play took: 0.000830
+[2025.01.02-22.14.47:114][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.01.02-22.14.47:118][ 84]PIE: Server logged in
+[2025.01.02-22.14.47:120][ 84]PIE: Play in editor total start time 0.241 seconds.
+[2025.01.02-22.14.47:133][ 84]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.14.51:437][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.14.51:437][333]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.14.51:439][333]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.14.51:445][333]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.14.51:446][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.14.51:450][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.14.51:456][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.14.51:472][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.02-22.14.51:472][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.02-22.14.51:487][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.02-22.14.51:498][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.02-22.14.51:561][334]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.01.02-22.16.14:365][989]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.16.14:402][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.16.14:917][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.16.15:059][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.16.15:072][ 16]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.16.15:073][ 16]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player54B8E19C472A6AF4A49964BE91230F7C.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.16.15:083][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 2.62 sec)
+[2025.01.02-22.16.15:085][ 16]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.16.15:085][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.16.16:230][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.16.16:235][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.16.16:235][ 85]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:16:16 AM)
+[2025.01.02-22.16.16:235][ 85]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.16.16:237][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002283s)
+[2025.01.02-22.16.16:238][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.002331s)
+[2025.01.02-22.16.16:254][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.02-22.16.16:257][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.16.16:257][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.16.16:257][ 85]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.16.16:258][ 85]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2025.01.02-22.16.16:258][ 85]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.16.16:258][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.16.16:258][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.16.16:258][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.16.16:258][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.16.16:258][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.16.16:261][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.16.16:311][ 85]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.16.16:311][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.16.16:311][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.16.16:311][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.16.16:312][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.02-22.16.16:312][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.02-22.16.16:315][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.02-22.16.16:315][ 85]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.02-22.16.16:315][ 85]LogAudio: Display: Audio Device (ID: 6) registered with world 'TEST'.
+[2025.01.02-22.16.16:315][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.02-22.16.16:315][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.02-22.16.16:482][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.16.16:482][ 85]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.16.16:483][ 85]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.16.16
+[2025.01.02-22.16.16:483][ 85]LogWorld: Bringing up level for play took: 0.000817
+[2025.01.02-22.16.16:487][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.01.02-22.16.16:491][ 85]PIE: Server logged in
+[2025.01.02-22.16.16:493][ 85]PIE: Play in editor total start time 0.258 seconds.
+[2025.01.02-22.16.16:506][ 85]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.16.25:718][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.16.25:718][625]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.16.25:719][625]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.16.25:727][625]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.16.25:728][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.16.25:733][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.16.25:741][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.16.25:756][625]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.02-22.16.25:757][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.02-22.16.25:759][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.02-22.16.25:781][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.02-22.16.25:857][626]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.01.02-22.16.30:408][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2399.501709
+[2025.01.02-22.16.31:408][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.16.31:408][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2400.166748, Update Interval: 342.837006
+[2025.01.02-22.17.26:534][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.02-22.17.26:538][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TEST' took 0.018
+[2025.01.02-22.17.26:538][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.01.02-22.17.26:538][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.01.02-22.17.26:538][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.17.26:550][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto3
+[2025.01.02-22.17.26:550][587]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player_Auto3195155AD483AC310A733CEBAF1A4713C.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset'
+[2025.01.02-22.17.26:550][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Jump] ([1] browsable assets)...
+[2025.01.02-22.17.26:550][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Jump]
+[2025.01.02-22.17.26:550][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Jump" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.17.26:551][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Jump_Auto3
+[2025.01.02-22.17.26:551][587]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Jump_Auto39D7D902347FF5B49885FE4A87FBD2AA0.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto3.uasset'
+[2025.01.02-22.17.26:551][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Crouch] ([1] browsable assets)...
+[2025.01.02-22.17.26:551][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Crouch]
+[2025.01.02-22.17.26:551][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Crouch" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.17.26:552][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Crouch_Auto3
+[2025.01.02-22.17.26:552][587]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Crouch_Auto3A27762AE49F67207C6B9508BFAE8E042.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto3.uasset'
+[2025.01.02-22.17.26:552][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Sprint] ([1] browsable assets)...
+[2025.01.02-22.17.26:552][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Sprint]
+[2025.01.02-22.17.26:552][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Sprint" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.17.26:553][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Sprint_Auto3
+[2025.01.02-22.17.26:553][587]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Sprint_Auto30B2B117841B3F190C40AFCB2A81D1FDD.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto3.uasset'
+[2025.01.02-22.17.26:553][587]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.01.02-22.17.27:370][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.17.27:595][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.17.27:608][634]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.17.27:608][634]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player22E6FF2F44D6A78BF20EB9875DD2FF2E.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.17.27:617][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 2.87 sec)
+[2025.01.02-22.17.27:620][634]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.17.27:620][634]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.22.45:163][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2774.255371
+[2025.01.02-22.22.45:346][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.22.45:347][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2774.421875, Update Interval: 334.600677
+[2025.01.02-22.23.09:155][794]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.23.09:203][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.01.02-22.23.09:923][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.23.10:060][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.23.10:073][832]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.23.10:073][832]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_PlayerBCEBB7E945F6B68A56F982AEA3677B10.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.23.10:082][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.03 sec)
+[2025.01.02-22.23.10:084][832]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.23.10:084][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.23.11:278][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.23.11:283][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.23.11:283][898]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:23:11 AM)
+[2025.01.02-22.23.11:283][898]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.23.11:285][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2025.01.02-22.23.11:285][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001763s)
+[2025.01.02-22.23.11:300][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.02-22.23.11:305][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.23.11:305][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.23.11:305][898]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.23.11:305][898]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2025.01.02-22.23.11:305][898]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.23.11:305][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.23.11:305][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.23.11:306][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.23.11:306][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.23.11:306][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.23.11:309][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.23.11:353][898]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.23.11:354][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.23.11:354][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.23.11:354][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.23.11:354][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.01.02-22.23.11:354][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.01.02-22.23.11:357][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.01.02-22.23.11:357][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.01.02-22.23.11:357][898]LogInit: FAudioDevice initialized with ID 7.
+[2025.01.02-22.23.11:357][898]LogAudio: Display: Audio Device (ID: 7) registered with world 'TEST'.
+[2025.01.02-22.23.11:357][898]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.02-22.23.11:360][898]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.23.11:361][898]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.23.11
+[2025.01.02-22.23.11:361][898]LogWorld: Bringing up level for play took: 0.000582
+[2025.01.02-22.23.11:363][898]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.01.02-22.23.11:365][898]PIE: Server logged in
+[2025.01.02-22.23.11:365][898]PIE: Play in editor total start time 0.082 seconds.
+[2025.01.02-22.23.11:929][930]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.12:562][968]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.13:296][ 12]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.13:813][ 43]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.14:112][ 61]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.14:346][ 75]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.14:528][ 86]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.15:031][116]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.15:667][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.23.15:667][152]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.23.15:668][152]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.23.15:668][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.23.15:673][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.23.15:679][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.23.15:692][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.02-22.23.15:692][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.01.02-22.23.15:692][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.02-22.23.15:694][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.01.02-22.23.15:700][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.23.15:703][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.02-22.23.15:771][153]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.01.02-22.23.21:486][489]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.23.36:470][363]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.23.36:518][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.02-22.23.37:654][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.23.37:778][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.23.37:792][420]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.23.37:793][420]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player7B7F579E4F3EB5788BA9B381337DE483.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.23.37:804][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.18 sec)
+[2025.01.02-22.23.37:805][420]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.23.37:805][420]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.23.38:515][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.23.38:521][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.23.38:521][463]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:23:38 AM)
+[2025.01.02-22.23.38:521][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.23.38:523][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001923s)
+[2025.01.02-22.23.38:523][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001961s)
+[2025.01.02-22.23.38:540][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.02-22.23.38:544][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.23.38:544][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.23.38:544][463]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.23.38:545][463]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2025.01.02-22.23.38:545][463]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.23.38:545][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.23.38:545][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.23.38:545][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.23.38:545][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.23.38:545][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.23.38:547][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.23.38:591][463]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.23.38:592][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.23.38:592][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.23.38:592][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.23.38:593][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.01.02-22.23.38:593][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.01.02-22.23.38:596][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.01.02-22.23.38:596][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.01.02-22.23.38:596][463]LogInit: FAudioDevice initialized with ID 8.
+[2025.01.02-22.23.38:596][463]LogAudio: Display: Audio Device (ID: 8) registered with world 'TEST'.
+[2025.01.02-22.23.38:596][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.02-22.23.38:765][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.23.38:766][463]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.23.38:767][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.23.38
+[2025.01.02-22.23.38:767][463]LogWorld: Bringing up level for play took: 0.001077
+[2025.01.02-22.23.38:770][463]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.01.02-22.23.38:774][463]PIE: Server logged in
+[2025.01.02-22.23.38:776][463]PIE: Play in editor total start time 0.254 seconds.
+[2025.01.02-22.23.38:787][463]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.23.39:404][489]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:404][489]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:422][490]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:438][491]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:455][492]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:472][493]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:489][494]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:505][495]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:522][496]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:538][497]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:554][498]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:572][499]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:588][500]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:604][501]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:621][502]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:639][503]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:655][504]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:672][505]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:688][506]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:705][507]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:722][508]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:739][509]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:873][517]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:873][517]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:890][518]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:907][519]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:923][520]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:939][521]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:956][522]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:973][523]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.39:989][524]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:006][525]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:024][526]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:040][527]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:056][528]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:155][534]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:155][534]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:172][535]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:188][536]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:205][537]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:222][538]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:239][539]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:255][540]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:272][541]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:289][542]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:305][543]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:372][547]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:373][547]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:389][548]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:405][549]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:422][550]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:439][551]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:455][552]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:471][553]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:489][554]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:688][566]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:688][566]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:705][567]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:722][568]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:739][569]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:755][570]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:772][571]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:789][572]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:805][573]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:822][574]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:838][575]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:922][580]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:922][580]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:939][581]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:955][582]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:972][583]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.40:988][584]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:005][585]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:022][586]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:039][587]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:089][590]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:089][590]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:105][591]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:122][592]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:138][593]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:155][594]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:172][595]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:189][596]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:205][597]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:222][598]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.23.41:428][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.23.41:428][609]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.23.41:430][609]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.23.41:440][609]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.23.41:440][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.23.41:444][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.23.41:450][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.23.41:466][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.02-22.23.41:466][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.01.02-22.23.41:467][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.02-22.23.41:480][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.01.02-22.23.41:491][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.02-22.23.41:561][610]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.01.02-22.25.19:935][421]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.25.19:979][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.02-22.25.20:323][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.25.20:464][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.25.20:478][436]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.25.20:479][436]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_PlayerEE5DB33E4A95186E6AFB46A9ED60A78A.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.25.20:492][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 3.34 sec)
+[2025.01.02-22.25.20:494][436]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.25.20:494][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.25.21:716][503]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.25.21:723][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.25.21:723][503]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:25:21 AM)
+[2025.01.02-22.25.21:747][503]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.21:750][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2025.01.02-22.25.21:750][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.002536s)
+[2025.01.02-22.25.21:769][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.02-22.25.21:773][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.25.21:773][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.25.21:774][503]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.25.21:774][503]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2025.01.02-22.25.21:774][503]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.25.21:774][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.25.21:774][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.25.21:775][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.25.21:775][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.25.21:775][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.25.21:777][503]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.25.21:827][503]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.25.21:827][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.25.21:827][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.25.21:827][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.25.21:828][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.01.02-22.25.21:829][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.01.02-22.25.21:831][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.01.02-22.25.21:831][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.01.02-22.25.21:831][503]LogInit: FAudioDevice initialized with ID 9.
+[2025.01.02-22.25.21:831][503]LogAudio: Display: Audio Device (ID: 9) registered with world 'TEST'.
+[2025.01.02-22.25.21:831][503]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.02-22.25.21:834][503]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.25.21:834][503]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.25.21
+[2025.01.02-22.25.21:835][503]LogWorld: Bringing up level for play took: 0.000671
+[2025.01.02-22.25.21:837][503]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.01.02-22.25.21:838][503]PIE: Server logged in
+[2025.01.02-22.25.21:839][503]PIE: Play in editor total start time 0.117 seconds.
+[2025.01.02-22.25.22:618][548]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.23:085][576]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.23:434][597]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.23:718][614]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.23:936][627]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.24:136][639]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.24:485][660]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.24:735][675]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.25:097][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.25:098][695]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.25:098][695]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.25.25:098][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.25:103][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.25.25:108][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.25:124][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.25:126][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.01.02-22.25.25:126][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.02-22.25.25:128][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.01.02-22.25.25:136][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.02-22.25.25:202][696]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.01.02-22.25.40:362][473]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.25.40:396][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.25.40:733][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.25.40:893][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.25.40:913][486]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.25.40:914][486]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player379D79C9469FE8866B4114AE2D6E6345.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.25.40:925][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 3.54 sec)
+[2025.01.02-22.25.40:934][486]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.25.40:935][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.25.41:728][534]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.25.41:736][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.25.41:736][534]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:25:41 AM)
+[2025.01.02-22.25.41:736][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.41:737][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001943s)
+[2025.01.02-22.25.41:737][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001984s)
+[2025.01.02-22.25.41:753][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.02-22.25.41:757][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.25.41:757][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.25.41:758][534]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.25.41:758][534]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2025.01.02-22.25.41:758][534]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.25.41:758][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.25.41:758][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.25.41:759][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.25.41:759][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.25.41:759][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.25.41:761][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.25.41:812][534]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.25.41:813][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.25.41:813][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.25.41:813][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.25.41:813][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.01.02-22.25.41:813][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.01.02-22.25.41:816][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.01.02-22.25.41:817][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.01.02-22.25.41:817][534]LogInit: FAudioDevice initialized with ID 10.
+[2025.01.02-22.25.41:817][534]LogAudio: Display: Audio Device (ID: 10) registered with world 'TEST'.
+[2025.01.02-22.25.41:817][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.02-22.25.41:987][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.41:987][534]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.25.41:989][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.25.41
+[2025.01.02-22.25.41:989][534]LogWorld: Bringing up level for play took: 0.001431
+[2025.01.02-22.25.41:993][534]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.01.02-22.25.41:998][534]PIE: Server logged in
+[2025.01.02-22.25.42:000][534]PIE: Play in editor total start time 0.264 seconds.
+[2025.01.02-22.25.42:012][534]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.01.02-22.25.42:627][559]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.42:627][559]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.43:143][590]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.43:144][590]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.44:548][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.44:548][672]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.44:549][672]LogSlate: Window 'BsRh2025Prj Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.02-22.25.44:560][672]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.25.44:560][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.44:564][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.25.44:570][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.44:587][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.02-22.25.44:587][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.02-22.25.44:595][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.02-22.25.44:609][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.02-22.25.44:676][673]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.01.02-22.25.46:371][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.25.46:376][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.25.46:376][773]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:25:46 AM)
+[2025.01.02-22.25.46:407][773]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.46:410][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2025.01.02-22.25.46:410][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.002605s)
+[2025.01.02-22.25.46:425][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.02-22.25.46:426][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.25.46:427][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.25.46:427][773]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.25.46:427][773]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2025.01.02-22.25.46:427][773]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.01.02-22.25.46:427][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.25.46:427][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.25.46:427][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.25.46:427][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.25.46:427][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.25.46:428][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.25.46:428][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.25.46:428][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.25.46:428][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.25.46:428][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.25.46:428][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.25.46:430][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.25.46:472][773]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.25.46:473][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.25.46:473][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.25.46:473][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.25.46:473][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.01.02-22.25.46:473][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.01.02-22.25.46:476][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.01.02-22.25.46:476][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.01.02-22.25.46:476][773]LogInit: FAudioDevice initialized with ID 11.
+[2025.01.02-22.25.46:476][773]LogAudio: Display: Audio Device (ID: 11) registered with world 'TEST'.
+[2025.01.02-22.25.46:476][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.02-22.25.46:479][773]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.25.46:479][773]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.25.46
+[2025.01.02-22.25.46:479][773]LogWorld: Bringing up level for play took: 0.000564
+[2025.01.02-22.25.46:482][773]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.01.02-22.25.46:483][773]PIE: Server logged in
+[2025.01.02-22.25.46:484][773]PIE: Play in editor total start time 0.108 seconds.
+[2025.01.02-22.25.47:164][811]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.47:164][811]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.47:714][844]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.47:715][844]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.47:980][860]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.47:980][860]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.48:180][872]LogBlueprintUserMessages: Hello
+[2025.01.02-22.25.48:180][872]LogCharacter: BP_Player_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.01.02-22.25.48:537][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.48:537][892]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.25.48:537][892]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.25.48:538][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.48:542][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.25.48:547][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.25.48:564][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.25.48:564][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.02-22.25.48:564][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.02-22.25.48:566][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.02-22.25.48:574][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.25.48:640][893]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.01.02-22.26.05:499][898]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Crouch.IA_Crouch
+[2025.01.02-22.26.14:870][445]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Player.IMC_Player
+[2025.01.02-22.28.08:529][940]LogEditorTransaction: Undo Add Node
+[2025.01.02-22.28.09:957][  3]LogEditorTransaction: Redo Add Node
+[2025.01.02-22.28.12:237][131]LogEditorTransaction: Undo Move Node
+[2025.01.02-22.28.16:149][306]LogEditorTransaction: Undo Add Node
+[2025.01.02-22.28.30:089][ 13]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.28.30:133][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.02-22.28.30:595][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.28.30:742][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.28.30:758][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.28.30:758][ 36]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player5F8621C64EE2A7F330AB3A9B631C9343.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.28.30:769][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 3.71 sec)
+[2025.01.02-22.28.30:772][ 36]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.28.30:772][ 36]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.28.32:096][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.02-22.28.32:102][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.02-22.28.32:102][109]PIE: New page: PIE session: TEST (Jan 3, 2025, 2:28:32 AM)
+[2025.01.02-22.28.32:102][109]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.28.32:104][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2025.01.02-22.28.32:104][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TEST.TEST to /Game/Levels/UEDPIE_0_TEST.TEST (0.001643s)
+[2025.01.02-22.28.32:118][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.02-22.28.32:122][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.02-22.28.32:122][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.02-22.28.32:122][109]LogAIModule: Creating AISystem for world TEST
+[2025.01.02-22.28.32:123][109]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2025.01.02-22.28.32:123][109]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.02-22.28.32:123][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.02-22.28.32:123][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.02-22.28.32:123][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.02-22.28.32:123][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.02-22.28.32:123][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.02-22.28.32:125][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.02-22.28.32:171][109]LogAudioMixer: Display: Using Audio Hardware Device QCY (QCY-T13 ANC)
+[2025.01.02-22.28.32:171][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.02-22.28.32:171][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.02-22.28.32:171][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.02-22.28.32:173][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.01.02-22.28.32:173][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.01.02-22.28.32:175][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.01.02-22.28.32:175][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.01.02-22.28.32:175][109]LogInit: FAudioDevice initialized with ID 12.
+[2025.01.02-22.28.32:175][109]LogAudio: Display: Audio Device (ID: 12) registered with world 'TEST'.
+[2025.01.02-22.28.32:175][109]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.02-22.28.32:178][109]LogLoad: Game class is 'BP_Gamemode_C'
+[2025.01.02-22.28.32:178][109]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TEST.TEST up for play (max tick rate 60) at 2025.01.03-00.28.32
+[2025.01.02-22.28.32:178][109]LogWorld: Bringing up level for play took: 0.000560
+[2025.01.02-22.28.32:181][109]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.01.02-22.28.32:182][109]PIE: Server logged in
+[2025.01.02-22.28.32:183][109]PIE: Play in editor total start time 0.081 seconds.
+[2025.01.02-22.28.33:185][168]LogBlueprintUserMessages: Hello
+[2025.01.02-22.28.38:977][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.28.38:977][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TEST
+[2025.01.02-22.28.38:977][514]LogWorld: UWorld::CleanupWorld for TEST, bSessionEnded=true, bCleanupResources=true
+[2025.01.02-22.28.38:978][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.28.38:982][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.02-22.28.38:990][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.02-22.28.39:004][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.02-22.28.39:005][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.02-22.28.39:005][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.02-22.28.39:007][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.02-22.28.39:014][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.02-22.28.39:094][515]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.01.02-22.29.00:841][790]BlueprintLog: New page: Compile BP_Player
+[2025.01.02-22.29.00:885][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.02-22.29.01:324][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.02-22.29.01:458][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.01.02-22.29.01:472][808]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.01.02-22.29.01:472][808]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/BP_Player8F2574A84A3E73F05826F6BA0C7C954D.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player.uasset'
+[2025.01.02-22.29.01:483][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.87 sec)
+[2025.01.02-22.29.01:485][808]AssetCheck: New page: Asset Save: BP_Player
+[2025.01.02-22.29.01:485][808]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.01.02-22.29.01:619][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3150.696533
+[2025.01.02-22.29.02:338][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.29.02:338][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3151.083252, Update Interval: 322.652679
+[2025.01.02-22.29.26:825][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.02-22.29.26:829][894]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TEST' took 0.019
+[2025.01.02-22.29.26:829][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Jump] ([1] browsable assets)...
+[2025.01.02-22.29.26:829][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Jump]
+[2025.01.02-22.29.26:829][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Jump" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.29.26:830][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Jump_Auto4
+[2025.01.02-22.29.26:830][894]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Jump_Auto4B613CA44427FF8E85F91DB84FBE5D0F7.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Jump_Auto4.uasset'
+[2025.01.02-22.29.26:831][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Crouch] ([1] browsable assets)...
+[2025.01.02-22.29.26:831][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Crouch]
+[2025.01.02-22.29.26:831][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Crouch" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.29.26:831][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Crouch_Auto4
+[2025.01.02-22.29.26:831][894]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Crouch_Auto4FD465D944A0637F9B7CF2A8BB9760818.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Crouch_Auto4.uasset'
+[2025.01.02-22.29.26:832][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Sprint] ([1] browsable assets)...
+[2025.01.02-22.29.26:832][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Sprint]
+[2025.01.02-22.29.26:832][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Sprint" FILE="../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.01.02-22.29.26:832][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Sprint_Auto4
+[2025.01.02-22.29.26:832][894]LogSavePackage: Moving '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/IA_Sprint_Auto4E09A536F4A186881DB370F80FB80810E.tmp' to '../../../../UNRprj/widaBsRh2025/BsRh2025Prj/Saved/Autosaves/Game/Input/IA_Sprint_Auto4.uasset'
+[2025.01.02-22.29.26:832][894]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.01.02-22.35.02:721][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3511.801025
+[2025.01.02-22.35.03:721][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.02-22.35.03:721][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3512.466797, Update Interval: 333.020416
