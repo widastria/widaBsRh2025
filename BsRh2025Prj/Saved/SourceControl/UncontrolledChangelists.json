@@ -13,7 +13,19 @@
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Gamemode.uasset",
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Crouch.uasset",
 				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Jump.uasset",
-				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Sprint.uasset"
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Sprint.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/BPI_Damagable.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/S_DamageInfo.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/E_DamageType.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/E_DamageResponses.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/BPC_DamageSystem.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Mouse_Left.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Mouse_Middle.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Input/IA_Mouse_Right.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Box.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/BP_Player1.uasset",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Levels/test2.umap",
+				"D:/Epic Games/Unreal/UNRprj/widaBsRh2025/BsRh2025Prj/Content/Blueprints/DamageSystem/IBM_Damageble.uasset"
 			]
 		}
 	]
